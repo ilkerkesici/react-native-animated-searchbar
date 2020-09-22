@@ -1,0 +1,20 @@
+{
+  "name": "react-native-animated-searchbar",
+  "version": "1.0.0",
+  "description": "Animated search bar for react-native apps",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "searchbar",
+    "animated",
+    "searchbar"
+  ],
+  "author": "İlker Kesici <ilkerrkesici@gmail.com> (https://github.com/ilkerkesici)",
+  "license": "ISC"
+}
