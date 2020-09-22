@@ -1,3 +1,9 @@
+<p>
+  <a href="https://www.npmjs.com/package/react-native-animated-searchbar">
+    <img alt="Documentation" src="https://img.shields.io/static/v1?label=pack&message=npm&color=red" target="_blank" />
+  </a>
+</p>
+
 # React Native Animated Searchbar for easy usage
 
 ## :star: Screenshot
